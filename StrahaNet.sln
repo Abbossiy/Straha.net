@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrahaNet", "StrahaNet\StrahaNet.csproj", "{1A954D7B-41CF-4DF5-B431-4DF9387F0CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrahaNet.Tests", "StrahaNet.Tests\StrahaNet.Tests.csproj", "{01331A1B-8770-4928-9955-7F649481EAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A954D7B-41CF-4DF5-B431-4DF9387F0CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A954D7B-41CF-4DF5-B431-4DF9387F0CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A954D7B-41CF-4DF5-B431-4DF9387F0CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A954D7B-41CF-4DF5-B431-4DF9387F0CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01331A1B-8770-4928-9955-7F649481EAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01331A1B-8770-4928-9955-7F649481EAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01331A1B-8770-4928-9955-7F649481EAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01331A1B-8770-4928-9955-7F649481EAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48EF7FD1-76F7-4C8C-8946-D7C07B613503}
+	EndGlobalSection
+EndGlobal
